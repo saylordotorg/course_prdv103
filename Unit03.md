@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV103: Interviewing Skills"
+course_description: "This course is intended to help you showcase your personality, strengths, interests, and abilities to potential employers through the interview process."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Negotiating Compensation** <span id="3"></span> 
 *Discussions of salary requirements during the interview can be tricky. 
 There are no absolutes about when you may be asked your salary

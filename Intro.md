@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV103: Interviewing Skills"
+course_description: "This course is intended to help you showcase your personality, strengths, interests, and abilities to potential employers through the interview process."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PRDV103: Interviewing Skills"
 --------------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV103: Interviewing Skills"
+course_description: "This course is intended to help you showcase your personality, strengths, interests, and abilities to potential employers through the interview process."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Before the Interview** <span id="1"></span> 
 *As in any worthwhile endeavor, you will need a plan of action to ensure
 your dreams come true.  The interviewing stage of your job search is
